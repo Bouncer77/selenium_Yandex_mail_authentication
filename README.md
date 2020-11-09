@@ -1,5 +1,8 @@
 # Selenium Java аутентификации на почте от Яндекса
 
+![Demo Video](https://user-images.githubusercontent.com/25829287/98537964-1efb6800-229b-11eb-8812-931e8986a082.gif)
+
+* Нажмите на картинку чтобы открыть видео на YouTube
 [![Watch the video](https://i.imgur.com/tQdcaFa.jpg)](https://youtu.be/vjKdyjCW3gU)
 
 [Что такое Selenium?](https://habr.com/ru/post/152653/)
@@ -60,4 +63,5 @@
 ## Поддержать мое творчество
 
 Буду вам благодарен, если поддержите мое творчество - сделав перевод денег на мой яндекс кошелек.
+
 [Перевод денег на мой яндекс кошелек](https://yoomoney.ru/to/4100115365185347)
