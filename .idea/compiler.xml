@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="selenium_Yandex_mail_authentication" />
+        <module name="selenium_ali_coin" />
         <module name="selenium_test" />
       </profile>
     </annotationProcessing>
